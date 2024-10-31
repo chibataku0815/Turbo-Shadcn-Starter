@@ -12,7 +12,6 @@
 	},
 	"aliases": {
 		"components": "@repo/ui/components",
-		"hooks": "@repo/ui/hooks",
 		"utils": "@repo/ui/lib/utils"
 	}
 }
